@@ -405,3 +405,6 @@ SlashCmdList["HITNUMBERS"] = function(msg)
     Print("/hn pet  toggle pet damage")
   end
 end
+
+-- update notices (version.lua)
+if SnapVersions then SnapVersions.Register("HitNumbers") end

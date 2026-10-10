@@ -2,8 +2,9 @@
 ## Title: |cffffd100Hit|cffffffffNumbers
 ## Notes: Retail-style floating damage and heal numbers above the head of whoever you hit or heal. Needs nampower + ClassicAPI (OctoWoW launcher mods).
 ## Author: Stokaido
-## Version: 1.0
+## Version: 1.1
 ## OptionalDeps: pfUI
 ## SavedVariables: HitNumbersDB
 
+version.lua
 HitNumbers.lua
